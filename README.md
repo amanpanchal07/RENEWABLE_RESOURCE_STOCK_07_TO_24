@@ -32,10 +32,6 @@ Renewable-Energy-SQL-Project/
 • CASE Statements
 • Trend Analysis
 • Business Insights using SQL
-
-👨‍💻 Author
-Aman Panchal
-
 ⭐ Star this repository if you found it useful!
 
 
