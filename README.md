@@ -19,22 +19,15 @@ SQL
 • Top-performing energy resources
 • Generation categorization (High, Medium, Low)
 
-📂 Project Structure
-Renewable-Energy-SQL-Project/
-│
-├── RENEWABLE_RESOURCE_STOCK_07_TO_24.sql
-└── README.md
-
 🎯 Skills Demonstrated
-• Data Exploration
-• Aggregation Functions
-• Subqueries
-• CASE Statements
-• Trend Analysis
-• Business Insights using SQL
-⭐ Star this repository if you found it useful!
+Data Exploration
+Aggregation Functions
+Subqueries
+CASE Statements
+Trend Analysis
+Business Insights using SQL
 
+👨‍💻 Author
+Aman Panchal
 
-
-Your Name
 ⭐ Star this repository if you found it useful!
