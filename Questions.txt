@@ -1,0 +1,25 @@
+Basic Level SQL Questions (10)
+
+Q.1 How many records are available for each energy resource?
+Q.2 List all unique energy resources present in the dataset.
+Q.3 Find the total number of records for each year.
+Q.4 Retrieve all records where the variable is 'Generation'.
+Q.5 Calculate the average data_value for each resource.
+Q.6 Identify the record with the highest data_value in the dataset.
+Q.7 Display all records for a specific resource (e.g., Renewable) sorted by year.
+Q.8 Count the number of records for each variable type.
+Q.9 Find the total number of rows where data_value is NULL.
+Q.10 Retrieve the top 10 records with the highest data_value.
+
+Intermediate Level SQL Questions (10)
+
+Q.1 Calculate the total energy generation for each resource and rank them from highest to lowest.
+Q.2 Analyze the yearly trend of total renewable energy generation from 2007 to 2024.
+Q.3 Determine which resource has the highest average generation value
+Q.4 Find the maximum and minimum data_value recorded for each resource.
+Q.5 Calculate the total generation for each year and identify the year with the highest energy production.
+Q.6 Find the percentage contribution of each resource to the overall energy generation.
+Q.7 Identify all resources whose average generation is greater than the overall average generation.
+Q.8 Find the latest available year in the dataset and display all records from that year.
+Q.9 Compare the total generation values between different resources and identify the top 5 contributors.
+Q.10 Categorize resources into High, Medium, and Low generation groups based on their average data_value using a CASE WHEN statement.
